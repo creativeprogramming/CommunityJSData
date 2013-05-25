@@ -1071,5 +1071,30 @@
         "lng": -86.783333,
         "state": "Tennessee",
         "town": "Nashville"
+    },
+    {
+        "continent": "Asia",
+        "country": "Philippines",
+        "lat": 14.55509,
+        "link": "http://manilajs.com/",
+        "lng": 121.024704,
+        "town": "Metro Manila"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 41.711384,
+        "link": "http://hartfordjs.com",
+        "lng": -72.664179,
+        "state": "Connecticut",
+        "town": "Hartford"
+    },
+    {
+        "continent": "Europe",
+        "country": "Italy",
+        "lat": 41.914412,
+        "link": "https://plus.google.com/communities/113152866370238474683",
+        "lng": 12.470508,
+        "town": "Roma"
     }
 ]
